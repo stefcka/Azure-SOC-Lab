@@ -10,8 +10,8 @@ STAGE 1 | Configuring Virtual Machine
 - In Azure I learned the proper way to set a virtual machine, analyze the best regions to configure the VM based on pricing, and troubleshot through Azure cloud shell during region pairing issues.
 - I learned that port 3389 allows all IP addresses, from any source to access my virtual machine
   <img width="1903" height="520" alt="Screenshot 2026-09-21 090419" src="https://github.com/user-attachments/assets/1af87e7f-8895-41fd-a57a-28dc3f80be0e" />
-- Set up inbound security rules, and made my VM public
-- Accessed my virtual machine through remote desktop connection, turned off window defender firewall protection to stop blocking unsolicited incoming network traffic, and explored ways to read logs.
+- Set up inbound security rules, and made my VM Ip address public.
+- Accessed my virtual machine through remote desktop connection, turned off window defender firewall protection to stop blocking unsolicited incoming network traffic, and explored different ways to read logs.
 <img width="1745" height="927" alt="Screenshot 2026-09-20 235125" src="https://github.com/user-attachments/assets/73ddf7e9-0d6a-4a88-8ba1-92ea34b0cc74" />
 
 STAGE 2 | Analyzing logs + KQL 
