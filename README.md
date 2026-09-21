@@ -1,6 +1,11 @@
 # Azure-SOC-Lab
 Expanding my Azure knowledge, I created a virtual machine vulnerable to the internet...this is how it went.
 
+Languaged Used
+-KQL
+-Powershell
+-Azure Cloudshell
+
 STAGE 1 | Configuring Virtual Machine
 - In Azure I learned the proper way to set a virtual machine, analyze the best regions to configure the VM based on pricing, and troubleshot through Azure cloud shell during region pairing issues.
 - I learned that port 3389 allows all IP addresses, from any source to access my virtual machine
