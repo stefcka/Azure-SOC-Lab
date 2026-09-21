@@ -16,6 +16,7 @@ STAGE 2 | Analyzing logs + KQL
 - Parsed Windows SecurityEvent 4625 logs, enriching raw attacker IP data with geolocation metadata to map global threat locations.
 <img width="1919" height="872" alt="Screenshot 2026-09-20 160641" src="https://github.com/user-attachments/assets/74f35c03-75ee-4f97-8d5c-7ab1a2a5f632" />
 - Built interactive Microsoft Sentinel Workbooks displaying live threat maps and attack trends, analyzing hotspots for threats.
-<img width="1604" height="804" alt="Screenshot 2026-09-21 084912" src="https://github.com/user-attachments/assets/515f7f64-abe4-49b3-bcba-965f63b1124c" />
+<img width="1604" height="703" alt="Screenshot 2026-09-21 084912" src="https://github.com/user-attachments/assets/fa5174ac-ab0a-47c3-80cb-454977b63c41" />
+
 
 
